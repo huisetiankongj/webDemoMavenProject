@@ -1,0 +1,16 @@
+webDemoMavenProject
+
+	com.czx.baidu       					       ---后台百度插件
+	com.czx.baidu.webuploader                      ---后台百度上传图片插件
+	com.czx.baidu.webuploader.web.DemoController   ---后台百度上传图片插件演示
+	
+	com.czx.baidu       					       ---前台百度插件
+	com.czx.baidu.webuploader                      ---前台百度上传图片插件
+	com.czx.baidu.webuploader.demo.jsp   		   ---前台百度上传图片插件演示
+	
+	com.czx.jquery       					       ---后台jquery
+	com.czx.jquery.web.DemoController              ---后台jquery演示
+	
+	com.czx.jquery       					       ---前台jquery所有的演示
+	com.czx.jquery.self                    		   ---前台jquery本身功能的演示
+	com.czx.jquery.self.deferredDemo.jsp   		   ---前台jquery的deferred对象演示

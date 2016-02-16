@@ -1,0 +1,5 @@
+1、在web.xml 中使用spring 编码过滤器的forceEncoding强制设置编码后，response的所有数据都utf-8
+2、webservice  
+http://blog.csdn.net/defonds/article/details/50037409
+
+3、制作window服务
